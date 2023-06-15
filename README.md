@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Thryft**
 
-- 🌱 I’m currently learning **Python,React & MySQL**
+- 🌱 I’m currently learning **Python,React & Figma**
 
 - ⚡ Fun fact **I am Funny**
 
