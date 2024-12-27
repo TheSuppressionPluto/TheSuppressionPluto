@@ -1,11 +1,10 @@
 <h1 align="center">Sup 👋, I'm Avaneesh Bhoite</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from the United States</h3>
 
-- 🔭 I’m currently working on **Thryft**
-
+- 🔭 I’m currently working on **Machine Learning**
 - 🌱 I’m currently learning **Python,React & Figma**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I play a lot of video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
