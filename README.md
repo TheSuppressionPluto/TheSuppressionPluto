@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/avee9150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avee9150" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avaneesh_bhoite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avaneesh_bhoite" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/avaneesh-bhoite-yuh12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avaneesh_bhoite" height="30" width="40" /></a>
 <a href="https://kaggle.com/avaneeshbhoite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="avaneeshbhoite" height="30" width="40" /></a>
 <a href="https://instagram.com/avaneesh.bhoite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avaneesh.bhoite" height="30" width="40" /></a>
 </p>
