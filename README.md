@@ -1,8 +1,8 @@
 <h1 align="center">Sup 👋, I'm Avaneesh Bhoite</h1>
-<h3 align="center">A passionate backend developer from the United States</h3>
+<h3 align="center">A passionate computer science graduate from the United States</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
-- 🌱 I’m currently learning **Python,React & Figma**
+- 🔭 I’m currently working on **Machine Learning & Cloud Platforms**
+- 🌱 I’m currently learning **Python,AWS**
 
 - ⚡ Fun fact **I play a lot of video games**
 
